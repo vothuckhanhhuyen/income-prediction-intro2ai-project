@@ -1,0 +1,19 @@
+name: income_pred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - scipy
+  - category_encoders
+  - optuna
+  - lightgbm
+  - xgboost
+  - scikit-learn
+  - pip
+  - pip:
+      - catboost
