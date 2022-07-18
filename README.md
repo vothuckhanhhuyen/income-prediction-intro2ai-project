@@ -23,5 +23,5 @@ After that, you can run our notebook in **income_prediction.ipynb**
 | CatBoost      | 0.92847        | 0.93470         | 0.93283          |
 
 ## Material
-- [Report]()
-- [Slide]()
+- [Report](report.pdf)
+- [Slide](slide.pdf)
